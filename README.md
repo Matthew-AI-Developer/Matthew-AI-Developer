@@ -14,25 +14,17 @@
 </p>
 
 ---
+<h3 align="center">💻 Programming Languages</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <h3>💻 Programming Languages</h3>
-      <ul>
-        <li>C#</li>
-        <li>PHP</li>
-        <li>HTML</li>
-        <li>SQL</li>
-        <li>R</li>
-        <li>Python</li>
-      </ul>
-    </td>
-    <td>
-      <img src="./ai-developer.gif" alt="AI Developer" width="250"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
 
 ---
 <h3 align="center">🧠 My AI & ML Skills</h3>
