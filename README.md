@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Matthew
 
-<!--
-**Matthew-AI-Developer/Matthew-AI-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm an AI Developer who loves **Machine Learning** and **Computer Vision**.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning more about **Deep Learning** and **Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 My skills:
+- PyTorch
+- TensorFlow
+- MediaPipe
+- OpenCV
+- Artificial Intelligence (AI)
+- Computer Vision
+- Neural Networks
+
+🚀 I build smart systems using AI tools and models.
+
+💻 Programming Languages:
+- C#
+- PHP
+- HTML
+- SQL
+- R
+- Python
