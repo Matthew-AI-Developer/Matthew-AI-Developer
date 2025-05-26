@@ -2,8 +2,9 @@
   <img src="./196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" alt="AI Dev Life" />
 </p>
 
-
-# 👋 Hi, I'm Matthew
+<p align="center">
+  # 👋 Hi, I'm Matthew
+</p>
 
 🎯 I'm an AI Developer who loves **Machine Learning** and **Computer Vision**.
 
