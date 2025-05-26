@@ -1,5 +1,5 @@
 <p align="center">
-![AI Dev Life](./196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+  <img src="./196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" alt="AI Dev Life" />
 </p>
 
 
