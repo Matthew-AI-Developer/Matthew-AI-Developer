@@ -12,6 +12,9 @@
 - Artificial Intelligence (AI)
 - Computer Vision
 - Neural Networks
+- NumPy
+- Pandas
+- Scikit-learn
 
 🚀 I build smart systems using AI tools and models.
 
