@@ -9,7 +9,6 @@
 - TensorFlow
 - MediaPipe
 - OpenCV
-- Artificial Intelligence (AI)
 - Computer Vision
 - Neural Networks
 - NumPy
