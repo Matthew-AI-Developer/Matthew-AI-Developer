@@ -35,20 +35,29 @@
 </table>
 
 ---
-
-<h3>🧠 My Skills</h3>
+<h3 align="center">🧠 My AI & ML Skills</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=eyeem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-000000?style=for-the-badge&logo=apache&logoColor=white" alt="Neural Networks"/>
 </p>
+
+<p align="center">
+  <!-- Computer Vision -->
+  <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=eyeem&logoColor=white" alt="Computer Vision"/>
+</p>
+
+<p align="center">
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
 
 ---
 
