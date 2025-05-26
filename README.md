@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="coding.gif" alt="banner" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Matthew
 
 🎯 I'm an AI Developer who loves **Machine Learning** and **Computer Vision**.
