@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" alt="AI Dev Life" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Matthew</h1>
 <h3 align="center">An AI Developer passionate about Machine Learning and Computer Vision</h3>
