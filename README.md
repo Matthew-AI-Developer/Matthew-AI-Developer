@@ -4,9 +4,18 @@
 
 <h1 align="center">👋 Hi, I'm Matthew</h1>
 
-🎯 I'm an AI Developer who loves <strong>Machine Learning</strong> and <strong>Computer Vision</strong>.
+<table>
+  <tr>
+    <td>
+      🎯 I'm an AI Developer who loves <strong>Machine Learning</strong> and <strong>Computer Vision</strong>.<br><br>
+      🌱 I’m currently learning more about <strong>Deep Learning</strong> and <strong>Data Science</strong>.
+    </td>
+    <td>
+      <img src="./ai-developer.gif" alt="AI Developer" width="200"/>
+    </td>
+  </tr>
+</table>
 
-🌱 I’m currently learning more about <strong>Deep Learning</strong> and <strong>Data Science</strong>.
 
 🚀 I build smart systems using AI tools and models.
 
