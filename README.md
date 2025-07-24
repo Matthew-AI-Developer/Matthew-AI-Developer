@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Matthew</h1>
+<h1 align="center"> Hi, I'm Matthew</h1>
 
 <p align="center">
   <!-- PyTorch -->
