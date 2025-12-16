@@ -24,7 +24,17 @@
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
 </p>
-### 🔗 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-richte-r-331204392)
-- 📧 [Email](mailto:matthew.ai.engineer@gmail.com)
-- ▶️ [YouTube Channel](https://www.youtube.com/channel/UCq91uizK_FF1resa_31bzxA)
+
+<h3 align="center">🔗 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-richte-r-331204392" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:matthew.ai.engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCq91uizK_FF1resa_31bzxA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
